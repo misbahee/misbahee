@@ -1,12 +1,12 @@
-<!-- ═══════════════════════════ HEADER WAVE ═══════════════════════════ -->
+<!-- ═══════════════════════════ CUSTOM ANIMATED HERO BANNER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7b2cbf,100:00d4ff&height=220&section=header&text=MISBAH&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer%20%7C%20Data%20Science%20%7C%20ML&descAlignY=55&descSize=18" width="100%" />
+<img src="https://raw.githubusercontent.com/misbahee/misbahee/main/assets/banner.svg" width="100%" alt="Misbah — Mathematics to Machine Learning" />
 
 <!-- ═══════════════════════════ TYPING ANIMATION ═══════════════════════════ -->
 
 <a href="https://github.com/misbahee">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer+%F0%9F%90%8D;Django+%7C+DRF+%7C+REST+APIs+%E2%9A%99%EF%B8%8F;Data+Science+%26+Practical+ML+%F0%9F%93%8A;I+turn+data+into+decisions+%F0%9F%9A%80;Always+building.+Always+learning.+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=760&lines=ML+Systems+Engineering+%26+Architecture+%F0%9F%A4%96;Mathematical+foundations%2C+production-first+%F0%9F%A7%AE;I+don't+build+generic+apps+%E2%80%94+I+design+systems+that+scale;Data+infra+%7C+Pipelines+%7C+Algorithmic+solutions+%E2%9A%99%EF%B8%8F;Always+curious.+Always+optimizing.+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,17 +22,17 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="Coding gif" />
 
-## 💫 Hey there, I'm Misbah! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" />
+## 💫 Hey there, I'm Misbah T V! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" />
 
-> **"I don't just analyze data — I ship intelligence."**
+> **"I don't build generic apps — I design systems that scale."**
 
-- 🐍 **Python Full Stack Developer** focused on **Django**
-- 📊 Building **practical ML applications** that solve real problems
-- 🏥 Currently working on **Healthcare Readmission Intelligence**
-- 🌱 Deep-diving into **MLOps & model deployment**
-- 📍 Based in **[YOUR LOCATION]** <!-- e.g., Kerala, India -->
-- 💬 Ask me about **Django, Data Pipelines, and ML in production**
-- ⚡ Fun fact: **[YOUR FUN FACT]** <!-- e.g., I debug faster with coffee ☕ -->
+- 🤖 **ML Systems Engineering & Architecture** — production-first, built to scale
+- 🎓 **B.Sc. Mathematics**, Malabar Christian College — the theory under the models
+- 🧮 I turn **mathematical principles** into ML that survives real-world scale
+- 🏗️ Ex **Co-Founder of Cafe Kithabi** — bootstrapped from zero, builder mindset for life
+- ⚙️ Into **data infrastructure, pipeline efficiency & algorithmic solutions**
+- 📍 Based in **Bengaluru, Karnataka, India** — open to work (on-site / hybrid / remote)
+- 💬 Ask me about **ML architecture, scalable pipelines, and math-driven optimization**
 
 <br clear="right"/>
 
@@ -45,24 +45,29 @@
 ```python
 class Misbah:
     def __init__(self):
-        self.name       = "[YOUR FULL NAME]"          # e.g., "Misbah ..."
-        self.role       = "Python Full Stack Developer"
-        self.location   = "[YOUR LOCATION]"
+        self.name       = "Misbah T V"
+        self.role       = "ML Systems Engineering & Architecture"
+        self.education  = "B.Sc. Mathematics — Malabar Christian College, Kozhikode"
+        self.location   = "Bengaluru, Karnataka, India"
+        self.background  = "Ex Co-Founder @ Cafe Kithabi (bootstrapped, zero capital)"
+        self.philosophy = "Mathematical foundations + ground-up execution"
         self.stack      = {
-            "backend":  ["Python", "Django", "DRF", "REST APIs"],
-            "data_ml":  ["Pandas", "NumPy", "Scikit-learn", "Jupyter"],
-            "frontend": ["JavaScript", "HTML5", "CSS3", "Tailwind"],
-            "database": ["PostgreSQL", "SQLite"],
-            "tools":    ["Git", "Linux", "VS Code", "Postman", "Figma"],
+            "ml_core":   ["Scikit-learn", "XGBoost", "Pandas", "NumPy"],
+            "deep_learn":["PyTorch", "TensorFlow", "Keras"],
+            "systems":   ["Data Pipelines", "FastAPI", "Docker", "MLflow"],
+            "backend":   ["Python", "Django", "DRF", "REST APIs"],
+            "data":      ["PostgreSQL", "SQL", "Jupyter"],
         }
+        self.top_skills = ["ML Architecture", "Systems Engineering",
+                           "Statistics", "Resource Allocation"]
         self.projects   = ["healthcare-readmission-intelligence",
                            "telco-customer-intelligence",
                            "credit-risk-pipeline", "BroWorld"]
-        self.workflow   = "Problem → Data → Model → API → Ship 🚀"
-        self.open_to    = ["Internships", "Collaborations", "Open Source"]
+        self.workflow   = "Math → Data → Pipeline → Model → Scale 🚀"
+        self.mindset    = "Production-first. Always curious, always optimizing."
 
     def say_hi(self):
-        print("Thanks for dropping by — let's build something intelligent!")
+        print("Let's build complex architecture that actually scales.")
 
 
 me = Misbah()
@@ -77,17 +82,20 @@ me.say_hi()
 
 <div align="center">
 
-### 🐍 Languages & Backend
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css&theme=dark" />
-
-### 📊 Data Science & ML
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,anaconda,r&theme=dark" />
+### 🧠 Machine Learning & Deep Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/XGBoost-EC4E3D?style=for-the-badge&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+### ⚙️ MLOps & Serving
+<img src="https://skillicons.dev/icons?i=docker,fastapi,git,github&theme=dark" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,linux,vscode,figma,postman,tailwind,react&theme=dark" />
+### 🐍 Backend & Data
+<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,linux,vscode&theme=dark" />
 
 </div>
 
@@ -184,12 +192,38 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
+<!-- ═══════════════════════════ CURRENT FOCUS ═══════════════════════════ -->
 
-## 🏆 Trophy Shelf
+## 🎯 Current Focus
+
+```yaml
+🔭 Building:   ML systems & architecture  ·  Scalable data pipelines
+🧠 Focused on: Algorithmic solutions  ·  Pipeline efficiency  ·  Data infra
+🌱 Next up:    Distributed training  ·  Model serving at scale  ·  Cloud ML
+💬 Ask me:     ML architecture  ·  Math-driven optimization  ·  Production ML
+⚡ Vibe:       Production-first. Always curious, always optimizing.
+```
+
+<!-- ═══════════════════════════ SKILL LEVELS ═══════════════════════════ -->
+
+## 📊 Skill Levels
+
+```text
+ML Architecture     ▰▰▰▰▰▰▰▰▱▱   Advanced
+Systems Engineering ▰▰▰▰▰▰▰▰▱▱   Advanced
+Mathematics / Stats ▰▰▰▰▰▰▰▰▰▱   Strong foundation
+Python / ML libs    ▰▰▰▰▰▰▰▰▱▱   Advanced
+MLOps / Serving     ▰▰▰▰▰▰▱▱▱▱   Building up
+```
+
+<!-- ═══════════════════════════ DEV QUOTE (animated, refreshes each load) ═══════════════════════════ -->
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=misbahee&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" />
+
+### 💭 Dev Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -223,14 +257,14 @@ me.say_hi()
 
 <div align="center">
 
-**Open to collaborations on:** Django apps · ML pipelines · Data-driven products
+**Open to collaborations on:** ML systems & architecture · Scalable data pipelines · Algorithmic problem-solving
 
 <br/>
 
 <a href="mailto:[YOUR-EMAIL]">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]">
+<a href="https://www.linkedin.com/in/misbahtv">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/misbahee">

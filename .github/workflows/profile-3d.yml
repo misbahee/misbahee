@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "30 0 * * *"  # runs daily at 00:30 UTC
   workflow_dispatch:       # lets you run it manually from the Actions tab
+  push:
+    branches:
+      - main               # also runs when you push to main
 
 permissions:
   contents: write
